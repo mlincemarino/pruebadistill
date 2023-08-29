@@ -24,3 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Probamos enviar todo al GitHub con **commit** y **push**. Corroboramos que funciona y ahora sí **creamos la página**. 
+
+En mi repositorio, voy a **Settings**, luego a **Pages** y ahí en **Branch** defino la ruta en la que quiero que esté el sitio web. 
+
